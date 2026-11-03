@@ -16,10 +16,6 @@
       "url": "https://155api.com/api.php/provide/vod"
     },
     {
-      "name": "艾旦",
-      "url": "https://www.lovedan.net/api.php/provide/vod"
-    },
-    {
       "name": "无尽资源",
       "url": "https://api.wujinapi.net/api.php/provide/vod"
     },
@@ -116,10 +112,6 @@
       "url": "http://apilj.com/api.php/provide/vod"
     },
     {
-      "name": "百度资源",
-      "url": "https://api.apibdzy.com/api.php/provide/vod"
-    },
-    {
       "name": "蜜源",
       "url": "https://iqiyizyapi.com/api.php/provide/vod"
     },
@@ -170,10 +162,6 @@
     {
       "name": "优质资源",
       "url": "https://api.yyzy-tv.vip/inc/api_mac10_all.php"
-    },
-    {
-      "name": "aidan",
-      "url": "https://lovedan.net/api.php/provide/vod"
     },
     {
       "name": "巨量",
@@ -374,10 +362,6 @@
     {
       "name": "php_爱奇艺资源",
       "url": "https://www.iqiyizy.com/api.php/provide/vod/from/iqym3u8"
-    },
-    {
-      "name": "php_百度资源",
-      "url": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8"
     },
     {
       "name": "*番号资源",
