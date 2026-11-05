@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.03",
-  "exportedAt": "2026-11-03",
+  "version": "2026.11.05",
+  "exportedAt": "2026-11-05",
   "sources": [
     {
       "name": "量子资源",
@@ -292,12 +292,12 @@
       "url": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8"
     },
     {
-      "name": "yilingba2",
-      "url": "https://api.1080zyku.com/inc/apijson.php"
-    },
-    {
       "name": "忆梦影视",
       "url": "https://www.gnpt.net/api.php/provide/vod/?ac=list"
+    },
+    {
+      "name": "yilingba2",
+      "url": "https://api.1080zyku.com/inc/apijson.php"
     },
     {
       "name": "360资源",
