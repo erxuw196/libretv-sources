@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.05",
-  "exportedAt": "2026-11-05",
+  "version": "2026.11.06",
+  "exportedAt": "2026-11-06",
   "sources": [
     {
       "name": "量子资源",
