@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.06",
-  "exportedAt": "2026-11-06",
+  "version": "2026.11.07",
+  "exportedAt": "2026-11-07",
   "sources": [
     {
       "name": "量子资源",
@@ -144,26 +144,6 @@
       "url": "https://app.bfzyapi.com/api.php/provide/vod"
     },
     {
-      "name": "量子影视",
-      "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/json"
-    },
-    {
-      "name": "暴风影视",
-      "url": "http://by.bfzyapi.com/api.php/provide/vod/at/json"
-    },
-    {
-      "name": "建安影视",
-      "url": "http://154.219.117.232:9981/jacloudapi.php/provide/vod/?ac=list"
-    },
-    {
-      "name": "php_暴风资源",
-      "url": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8"
-    },
-    {
-      "name": "优质资源",
-      "url": "https://api.yyzy-tv.vip/inc/api_mac10_all.php"
-    },
-    {
       "name": "巨量",
       "url": "https://api.juliang.live/api/provide/vod"
     },
@@ -178,10 +158,6 @@
     {
       "name": "wujincc",
       "url": "https://api.wujinapi.cc/api.php/provide/vod"
-    },
-    {
-      "name": "无尽影视",
-      "url": "https://api.wujinapi.me/api.php/provide/vod/from/wjm3u8/at/json"
     },
     {
       "name": "非凡资源",
@@ -228,42 +204,6 @@
       "url": "https://www.hongniuzy3.com/api.php/provide/vod"
     },
     {
-      "name": "光速影视",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/json"
-    },
-    {
-      "name": "豪华影视",
-      "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json"
-    },
-    {
-      "name": "非凡影视",
-      "url": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/json"
-    },
-    {
-      "name": "php_非凡资源",
-      "url": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8"
-    },
-    {
-      "name": "php_红牛资源",
-      "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8"
-    },
-    {
-      "name": "php_新浪资源",
-      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8"
-    },
-    {
-      "name": "php_豪华资源",
-      "url": "https://huohuzy.com/api.php/provide/vod/from/hhm3u8"
-    },
-    {
-      "name": "php_极速资源",
-      "url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8"
-    },
-    {
-      "name": "php_虎牙资源",
-      "url": "https://huyazy.net/api.php/provide/vod/from/hym3u8"
-    },
-    {
       "name": "电影天堂",
       "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list"
     },
@@ -276,30 +216,6 @@
       "url": "http://zuidazy.me/api.php/provide/vod"
     },
     {
-      "name": "西瓜影视",
-      "url": "https://caiji.xgzyapi.com/api.php/provide/vod/from/xiguam3u8/at/json"
-    },
-    {
-      "name": "php_最大资源",
-      "url": "https://www.zuidazy.co/api.php/provide/vod/from/zuidam3u8"
-    },
-    {
-      "name": "php_电影天堂",
-      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8"
-    },
-    {
-      "name": "最大资源",
-      "url": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8"
-    },
-    {
-      "name": "忆梦影视",
-      "url": "https://www.gnpt.net/api.php/provide/vod/?ac=list"
-    },
-    {
-      "name": "yilingba2",
-      "url": "https://api.1080zyku.com/inc/apijson.php"
-    },
-    {
       "name": "360资源",
       "url": "https://360zy.com/api.php/seaxml/vod"
     },
@@ -310,82 +226,6 @@
     {
       "name": "csp_xml_ikun",
       "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json"
-    },
-    {
-      "name": "youku",
-      "url": "https://api.ukuapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "360资源",
-      "url": "https://360zy.com/api.php/provide/vod/at/json"
-    },
-    {
-      "name": "U酷影视",
-      "url": "https://api.ukuapi88.com/api.php/provide/vod/from/ukm3u8/at/json"
-    },
-    {
-      "name": "如意影视",
-      "url": "https://cj.rytvapi.com/api.php/provide/vod/from/rym3u8/at/json"
-    },
-    {
-      "name": "IK",
-      "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8"
-    },
-    {
-      "name": "php_360资源",
-      "url": "https://www.360zy.com/api.php/provide/vod"
-    },
-    {
-      "name": "php_魔都资源",
-      "url": "https://moduzy.com/api.php/provide/vod/from/modum3u8"
-    },
-    {
-      "name": "php_量子短剧",
-      "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?t=46"
-    },
-    {
-      "name": "moduzy",
-      "url": "https://www.moduzy.com/api.php/provide/vod"
-    },
-    {
-      "name": "辣椒資源",
-      "url": "http://apilj.com/api.php/provide/vod/at/json"
-    },
-    {
-      "name": "蕃茄",
-      "url": "https://fqzy.me//api.php/provide/vod"
-    },
-    {
-      "name": "IKUN资源",
-      "url": "https://www.ikunzy.org/api.php/provide/vod/at/json"
-    },
-    {
-      "name": "php_爱奇艺资源",
-      "url": "https://www.iqiyizy.com/api.php/provide/vod/from/iqym3u8"
-    },
-    {
-      "name": "*番号资源",
-      "url": "http://fhapi9.com/api.php/provide/vod"
-    },
-    {
-      "name": "猫眼影视",
-      "url": "https://api.maoyanapi.top/api.php/provide/vod/from/mym3u8/at/json"
-    },
-    {
-      "name": "php_猫眼资源",
-      "url": "https://www.maoyanzy.com/api.php/provide/vod/from/mym3u8"
-    },
-    {
-      "name": "滴滴资源",
-      "url": "https://api.ddapi.cc/api.php/provide/vod/at/json"
-    },
-    {
-      "name": "红桃🍑",
-      "url": "https://apidanaizi.com/api.php/provide/vod/?ac=list"
-    },
-    {
-      "name": "91",
-      "url": "https://91md.me/api.php/provide/vod"
     }
   ],
   "liveSources": [
