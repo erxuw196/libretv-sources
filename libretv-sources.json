@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.07",
-  "exportedAt": "2026-11-07",
+  "version": "2026.11.08",
+  "exportedAt": "2026-11-08",
   "sources": [
     {
       "name": "量子资源",
@@ -10,6 +10,10 @@
     {
       "name": "暴风资源",
       "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "鲨鱼资源",
+      "url": "https://shayuapi.com/api.php/provide/vod"
     },
     {
       "name": "155资源",
@@ -130,10 +134,6 @@
     {
       "name": "猫眼资源",
       "url": "https://api.maoyanapi.top/api.php/provide/vod"
-    },
-    {
-      "name": "鲨鱼资源",
-      "url": "https://shayuapi.com/api.php/provide/vod"
     },
     {
       "name": "csp_xml_优质",
