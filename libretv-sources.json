@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.08",
-  "exportedAt": "2026-11-08",
+  "version": "2026.11.10",
+  "exportedAt": "2026-11-10",
   "sources": [
     {
       "name": "量子资源",
@@ -10,6 +10,10 @@
     {
       "name": "暴风资源",
       "url": "https://bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "辣椒资源",
+      "url": "http://apilj.com/api.php/provide/vod"
     },
     {
       "name": "鲨鱼资源",
@@ -110,10 +114,6 @@
     {
       "name": "蕃茄资源",
       "url": "https://fqzy.me/api.php/provide/vod"
-    },
-    {
-      "name": "辣椒资源",
-      "url": "http://apilj.com/api.php/provide/vod"
     },
     {
       "name": "蜜源",
