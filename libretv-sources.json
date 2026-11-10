@@ -72,16 +72,16 @@
       "url": "https://api.zuidapi.com/api.php/provide/vod"
     },
     {
+      "name": "精品资源",
+      "url": "https://www.jingpinx.com/api.php/provide/vod"
+    },
+    {
       "name": "优质资源",
       "url": "https://api.yyzy-tv.vip/inc/apijson.php"
     },
     {
       "name": "高清资源",
       "url": "https://api.yzzy-api.com/inc/apijson.php"
-    },
-    {
-      "name": "精品资源",
-      "url": "https://www.jingpinx.com/api.php/provide/vod"
     },
     {
       "name": "玉兔资源",
