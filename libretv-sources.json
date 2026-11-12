@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.10",
-  "exportedAt": "2026-11-10",
+  "version": "2026.11.12",
+  "exportedAt": "2026-11-12",
   "sources": [
     {
       "name": "量子资源",
@@ -60,10 +60,6 @@
       "url": "https://subocaiji.com/api.php/provide/vod"
     },
     {
-      "name": "刺桐资源",
-      "url": "http://pg.cttv.vip/api.php/provide/vod"
-    },
-    {
       "name": "电影天堂",
       "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
     },
@@ -96,10 +92,6 @@
       "url": "https://360zy.com/api.php/provide/vod"
     },
     {
-      "name": "魔都资源",
-      "url": "https://caiji.moduapi.cc/api.php/provide/vod"
-    },
-    {
       "name": "如意资源",
       "url": "http://cj.rycjapi.com/api.php/provide/vod"
     },
@@ -114,10 +106,6 @@
     {
       "name": "蕃茄资源",
       "url": "https://fqzy.me/api.php/provide/vod"
-    },
-    {
-      "name": "蜜源",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod"
     },
     {
       "name": "秒播资源",
@@ -218,10 +206,6 @@
     {
       "name": "360资源",
       "url": "https://360zy.com/api.php/seaxml/vod"
-    },
-    {
-      "name": "魔都资源",
-      "url": "https://www.mdzyapi.com/api.php/provide/vod"
     },
     {
       "name": "csp_xml_ikun",
