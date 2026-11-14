@@ -12,6 +12,10 @@
       "url": "https://bfzyapi.com/api.php/provide/vod"
     },
     {
+      "name": "最大资源",
+      "url": "https://api.zuidapi.com/api.php/provide/vod"
+    },
+    {
       "name": "辣椒资源",
       "url": "http://apilj.com/api.php/provide/vod"
     },
@@ -134,6 +138,10 @@
     {
       "name": "baofeng2",
       "url": "https://app.bfzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "zuidame",
+      "url": "http://zuidazy.me/api.php/provide/vod"
     },
     {
       "name": "巨量",
