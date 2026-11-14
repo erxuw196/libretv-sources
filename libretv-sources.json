@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.12",
-  "exportedAt": "2026-11-12",
+  "version": "2026.11.14",
+  "exportedAt": "2026-11-14",
   "sources": [
     {
       "name": "量子资源",
@@ -60,16 +60,12 @@
       "url": "https://subocaiji.com/api.php/provide/vod"
     },
     {
-      "name": "电影天堂",
-      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "最大资源",
-      "url": "https://api.zuidapi.com/api.php/provide/vod"
-    },
-    {
       "name": "精品资源",
       "url": "https://www.jingpinx.com/api.php/provide/vod"
+    },
+    {
+      "name": "电影天堂",
+      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
     },
     {
       "name": "优质资源",
@@ -206,10 +202,6 @@
     {
       "name": "天堂",
       "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8"
-    },
-    {
-      "name": "zuidame",
-      "url": "http://zuidazy.me/api.php/provide/vod"
     },
     {
       "name": "360资源",
