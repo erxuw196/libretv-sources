@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.17",
-  "exportedAt": "2026-11-17",
+  "version": "2026.11.18",
+  "exportedAt": "2026-11-18",
   "sources": [
     {
       "name": "量子资源",
@@ -36,6 +36,10 @@
       "url": "https://api.ffzyapi.com/api.php/provide/vod"
     },
     {
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod"
+    },
+    {
       "name": "红牛资源",
       "url": "https://www.hongniuzy2.com/api.php/provide/vod"
     },
@@ -46,6 +50,14 @@
     {
       "name": "豪华资源",
       "url": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "金鹰",
+      "url": "https://jyzyapi.com/api.php/provide/vod"
     },
     {
       "name": "速播",
@@ -76,10 +88,6 @@
       "url": "https://apilsbzy1.com/api.php/provide/vod"
     },
     {
-      "name": "360资源",
-      "url": "https://360zy.com/api.php/provide/vod"
-    },
-    {
       "name": "魔都资源",
       "url": "https://caiji.moduapi.cc/api.php/provide/vod"
     },
@@ -100,10 +108,6 @@
       "url": "https://fqzy.me/api.php/provide/vod"
     },
     {
-      "name": "蜜源",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod"
-    },
-    {
       "name": "秒播资源",
       "url": "https://api.zeqaht.com/api.php/provide/vod"
     },
@@ -118,6 +122,14 @@
     {
       "name": "猫眼资源",
       "url": "https://api.maoyanapi.top/api.php/provide/vod"
+    },
+    {
+      "name": "量子资源",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+    },
+    {
+      "name": "cms_bfzy2",
+      "url": "https://bfzy2.tv/api.php/provide/vod"
     },
     {
       "name": "csp_xml_优质",
@@ -136,12 +148,12 @@
       "url": "https://api.juliang.live/api/provide/vod"
     },
     {
-      "name": "csp_xml_无尽",
-      "url": "https://api.wujinapi.me/api.php/provide/vod/?ac=list"
+      "name": "cms_wujin",
+      "url": "https://api.wujinapi.com/api.php/provide/vod"
     },
     {
-      "name": "wujin",
-      "url": "https://api.wujinapi.com/api.php/provide/vod"
+      "name": "cms_wujin2",
+      "url": "https://api.wujinapi.me/api.php/provide/vod"
     },
     {
       "name": "wujincc",
@@ -152,20 +164,44 @@
       "url": "http://ffzy1.tv/api.php/provide/vod"
     },
     {
+      "name": "虎牙",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
+    },
+    {
+      "name": "金鹰资源",
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json"
+    },
+    {
+      "name": "cms_jinying",
+      "url": "https://jyzyapi.com/provide/vod"
+    },
+    {
+      "name": "cms_subo",
+      "url": "https://subocj.com/api.php/provide/vod"
+    },
+    {
+      "name": "cms_feifan2",
+      "url": "http://ffzy5.tv/api.php/provide/vod"
+    },
+    {
       "name": "新浪资源",
       "url": "http://api.xinlangapi.com/xinlangapi.php/provide/vod"
+    },
+    {
+      "name": "csp_xml_光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8"
     },
     {
       "name": "csp_xml_新浪",
       "url": "https://api.xinlangapi.com/xinlangapi.php/provide//vod"
     },
     {
-      "name": "feifan",
-      "url": "http://ffzy5.tv/api.php/provide/vod"
-    },
-    {
       "name": "feifancj2",
       "url": "https://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "jinying",
+      "url": "https://jinyingzy.com/api.php/provide/vod"
     },
     {
       "name": "hongniu3",
@@ -180,8 +216,8 @@
       "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8"
     },
     {
-      "name": "360资源",
-      "url": "https://360zy.com/api.php/seaxml/vod"
+      "name": "cms_qlys",
+      "url": "https://www.qlys.cc/api.php/provide/vod"
     },
     {
       "name": "魔都资源",
