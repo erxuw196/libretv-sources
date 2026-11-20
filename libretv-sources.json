@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.19",
-  "exportedAt": "2026-11-19",
+  "version": "2026.11.20",
+  "exportedAt": "2026-11-20",
   "sources": [
     {
       "name": "量子资源",
@@ -38,10 +38,6 @@
     {
       "name": "红牛资源",
       "url": "https://www.hongniuzy2.com/api.php/provide/vod"
-    },
-    {
-      "name": "极速资源",
-      "url": "https://jszyapi.com/api.php/provide/vod"
     },
     {
       "name": "豪华资源",
@@ -160,6 +156,14 @@
       "url": "http://ffzy1.tv/api.php/provide/vod"
     },
     {
+      "name": "金鹰资源",
+      "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json"
+    },
+    {
+      "name": "cms_jinying",
+      "url": "https://jyzyapi.com/provide/vod"
+    },
+    {
       "name": "cms_subo",
       "url": "https://subocj.com/api.php/provide/vod"
     },
@@ -178,6 +182,10 @@
     {
       "name": "feifancj2",
       "url": "https://cj.ffzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "jinying",
+      "url": "https://jinyingzy.com/api.php/provide/vod"
     },
     {
       "name": "hongniu3",
