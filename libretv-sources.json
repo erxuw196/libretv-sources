@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.20",
-  "exportedAt": "2026-11-20",
+  "version": "2026.11.21",
+  "exportedAt": "2026-11-21",
   "sources": [
     {
       "name": "量子资源",
@@ -36,12 +36,28 @@
       "url": "https://api.ffzyapi.com/api.php/provide/vod"
     },
     {
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod"
+    },
+    {
       "name": "红牛资源",
       "url": "https://www.hongniuzy2.com/api.php/provide/vod"
     },
     {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod"
+    },
+    {
       "name": "豪华资源",
       "url": "https://hhzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "金鹰",
+      "url": "https://jyzyapi.com/api.php/provide/vod"
     },
     {
       "name": "速播",
@@ -156,6 +172,10 @@
       "url": "http://ffzy1.tv/api.php/provide/vod"
     },
     {
+      "name": "虎牙",
+      "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
+    },
+    {
       "name": "金鹰资源",
       "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json"
     },
@@ -174,6 +194,10 @@
     {
       "name": "新浪资源",
       "url": "http://api.xinlangapi.com/xinlangapi.php/provide/vod"
+    },
+    {
+      "name": "csp_xml_光速",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8"
     },
     {
       "name": "csp_xml_新浪",
