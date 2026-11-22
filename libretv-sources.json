@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.21",
-  "exportedAt": "2026-11-21",
+  "version": "2026.11.22",
+  "exportedAt": "2026-11-22",
   "sources": [
     {
       "name": "量子资源",
@@ -168,10 +168,6 @@
       "url": "https://api.wujinapi.cc/api.php/provide/vod"
     },
     {
-      "name": "非凡资源",
-      "url": "http://ffzy1.tv/api.php/provide/vod"
-    },
-    {
       "name": "虎牙",
       "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
     },
@@ -222,10 +218,6 @@
     {
       "name": "天堂",
       "url": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8"
-    },
-    {
-      "name": "cms_qlys",
-      "url": "https://www.qlys.cc/api.php/provide/vod"
     },
     {
       "name": "360资源",
