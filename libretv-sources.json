@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.22",
-  "exportedAt": "2026-11-22",
+  "version": "2026.11.24",
+  "exportedAt": "2026-11-24",
   "sources": [
     {
       "name": "量子资源",
@@ -166,6 +166,10 @@
     {
       "name": "wujincc",
       "url": "https://api.wujinapi.cc/api.php/provide/vod"
+    },
+    {
+      "name": "非凡资源",
+      "url": "http://ffzy1.tv/api.php/provide/vod"
     },
     {
       "name": "虎牙",
