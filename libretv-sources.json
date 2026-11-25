@@ -1,7 +1,7 @@
 {
   "name": "LibreTV 源清单（自建自动更新）",
-  "version": "2026.11.24",
-  "exportedAt": "2026-11-24",
+  "version": "2026.11.25",
+  "exportedAt": "2026-11-25",
   "sources": [
     {
       "name": "量子资源",
@@ -50,10 +50,6 @@
     {
       "name": "豪华资源",
       "url": "https://hhzyapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "虎牙资源",
-      "url": "https://www.huyaapi.com/api.php/provide/vod"
     },
     {
       "name": "金鹰",
@@ -172,10 +168,6 @@
       "url": "http://ffzy1.tv/api.php/provide/vod"
     },
     {
-      "name": "虎牙",
-      "url": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8"
-    },
-    {
       "name": "金鹰资源",
       "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json"
     },
@@ -206,10 +198,6 @@
     {
       "name": "feifancj2",
       "url": "https://cj.ffzyapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "jinying",
-      "url": "https://jinyingzy.com/api.php/provide/vod"
     },
     {
       "name": "hongniu3",
